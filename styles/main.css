@@ -1,0 +1,10 @@
+header{
+    background-color: aqua;
+    text-align: center;
+}
+main{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
